@@ -7,7 +7,7 @@ for(i=0;i<limit;i++)
 {
 scanf("%d",&number[i];
 }
-for(i=0;i<count;i++)
+for(i=0;i<limit;i++)
 {
 sum=sum+number[i];
 }

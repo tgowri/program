@@ -7,5 +7,9 @@ if(n>=l && n<=r)
 {
 printf("yes");
 }
+else
+{
+  printf("no");
+}
 return 0;
 }
